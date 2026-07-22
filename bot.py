@@ -639,5 +639,5 @@ async def change_status(ctx, *, text: str):
     except Exception as e:
         await ctx.send(f"❌ Thất bại khi cập nhật trạng thái: {e}")
 
-BOT_TOKEN = "MTQzNjczOTk4Mzg5MjI4NzUwOA.G1MqC2.y3ZGu2NtlVoiyLRx0mLsaiWMJNoyBojpo0cRqE"
+BOT_TOKEN = "MTQzNjczOTk4Mzg5MjI4NzUwOA.G4IGp8.4HJNo_It2R6eZfr2BIhnTcfpwvmKD1AO-IF5Qg"
 bot.run(BOT_TOKEN)
